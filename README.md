@@ -1,0 +1,3 @@
+A PowerShell script that will retrieve information for services on windows machines within a given OU and output results into a CSV file.
+
+This script requires the PowerShell ActiveDirectory module (https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps) which can be made available on Windows 10 machines by installing Remote Server Administration Tools (https://docs.microsoft.com/en-us/windows-server/remote/remote-server-administration-tools)
